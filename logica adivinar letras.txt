@@ -1,0 +1,11 @@
+function comprobarletra() {
+  let valor = document.getElementById("letra").value;
+
+  for (i = 0; i < palabra.length; i++) {
+    if (palabra.charAt(i) === valor) {
+      console.log("la letra coincide " + valor);
+    } else {
+      console.log("la letra no esta");
+    }
+  }
+}

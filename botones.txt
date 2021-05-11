@@ -1,0 +1,32 @@
+   <div id="buttons">
+
+    <button value="Q" id="Q">Q</button>
+    <button value="W" id="W">W</button>
+    <button value="E" id="E">E</button>
+    <button value="R" id="R">R</button>
+    <button value="T" id="T">T</button>
+    <button value="Y" id="Y">Y</button>
+    <button value="U" id="U">U</button>
+    <button value="I" id="I">I</button>
+    <button value="O" id="O">O</button>
+    <button value="P" id="P">P</button>
+    <br>
+    <button value="A" id="A">A</button>
+    <button value="S" id="S">S</button>
+    <button value="D" id="D">D</button>
+    <button value="F" id="F">F</button>
+    <button value="G" id="G">G</button>
+    <button value="H" id="H">H</button>
+    <button value="J" id="J">J</button>
+    <button value="K" id="K">K</button>
+    <button value="L" id="L">L</button>
+    <br>
+    <button value="Z" id="Z">Z</button>
+    <button value="X" id="X">X</button>
+    <button value="C" id="C">C</button>
+    <button value="V" id="V">V</button>
+    <button value="B" id="B">B</button>
+    <button value="N" id="N">N</button>
+    <button value="M" id="M">M</button>
+    
+</div>      
